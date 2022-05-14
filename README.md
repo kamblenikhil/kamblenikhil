@@ -6,9 +6,9 @@
     - DevOps
     - Internet of Things
 
-### 💡 Core Competencies
+## 💡 Core Competencies
 
-#### Languages:
+### Languages:
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;&nbsp;
@@ -22,14 +22,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
 </p>
 
-#### Database:
+### Database:
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>
 </p>
 
-#### Operating System:
+### Operating System:
 <p>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" title="Ubuntu" alt="Ubuntu" width="80" height="50"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" title="Arch" alt="Arch" width="80" height="50"/>&nbsp;&nbsp;
@@ -37,7 +37,7 @@
   <img src="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Windows_NT_4.0_Logo.svg" title="WinNT" alt="WinNT" width="50" height="50"/>
 </p>
 
-#### Tools:
+### Tools:
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
