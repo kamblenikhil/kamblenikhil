@@ -39,17 +39,17 @@
 
 #### Tools:
 <p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" title="Docker" alt="Docker" width="90" height="60"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>&nbsp;&nbsp; 
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="AStudio" alt="AStudio" width="90" height="60"/>&nbsp;&nbsp;
-  <img src="https://www.pngfind.com/pngs/m/12-122645_eclipse1024-eclipse-ide-icon-png-transparent-png.png" title="Eclipse" alt="Eclipse" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" title="Postman" alt="Postman" width="90" height="60"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" title="Jenkins" alt="Jenkins" width="90" height="60"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" title="Docker" alt="Docker" width="90" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="AStudio" alt="AStudio" width="90" height="60"/>&nbsp;
+  <img src="https://www.pngfind.com/pngs/m/12-122645_eclipse1024-eclipse-ide-icon-png-transparent-png.png" title="Eclipse" alt="Eclipse" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" title="Jenkins" alt="Jenkins" width="90" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" title="RabbitMQ" alt="RabbitMQ" width="80" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="RabbitMQ" alt="RabbitMQ" width="50" height="50"/>
 </p>
 
 <!--
