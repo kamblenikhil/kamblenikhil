@@ -6,6 +6,12 @@
     - DevOps
     - Internet of Things
 
+
+## 📫 Connect with me
+
+  <a href="https://github.com/kamblenikhil"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github" width="100" height="80"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kamblenikhil"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="Linkedin" width="100" height="80"/></a>
+
 ## 💡 Core Competencies
 
 ### Languages:
@@ -52,12 +58,12 @@
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="RabbitMQ" alt="RabbitMQ" width="50" height="50"/>
 </p>
 
-## 🙌🏻 Connect with me
-  <a src="https://github.com/kamblenikhil"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github" width="100" height="80"/></a>&nbsp;&nbsp;
-  <a src="https://www.linkedin.com/in/kamblenikhil/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="Linkedin" width="100" height="80"/></a>
 <!--
 
 ### Hi there 👋
+
+
+## 🙌🏻 
 
 **kamblenikhil/kamblenikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
