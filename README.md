@@ -1,15 +1,18 @@
 ## I'm Nikhil Kamble!
- - I am pursuing my Master's in Computer Science at Indiana University Bloomington. 
+ - Currently pursuing Master's in Computer Science from Indiana University Bloomington.
+ - Far far away, north of the ocean and south of the snowy mountains, I completed my undergrad in Computer Engineering from India.
  - I have a demonstrated experience in the field of:
-    - Software Development
-    - Full Stack Development
-    - DevOps
-    - Internet of Things
-
+   - Software Development
+   - Full Stack Development
+   - DevOps
+   - Internet of Things
+ 
 ## 📫 Connect with me on
 
-  <a href="https://github.com/kamblenikhil"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github" width="100" height="80"/></a>&nbsp;&nbsp;
+  <a href="https://kamblenikhil.github.io"><img src="https://www.vectorlogo.zone/logos/yeoman/yeoman-icon.svg" alt="Portfolio" width="100" height="80"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kamblenikhil"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="Linkedin" width="100" height="80"/></a>
+  <a href="https://github.com/kamblenikhil"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="Github" width="100" height="80"/></a>&nbsp;&nbsp;
+  <a href="mailto:nkamble@iu.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" title="Email" width="100" height="80"/></a>
 
 ## 💡 My Toolbox & Things I can do
 
