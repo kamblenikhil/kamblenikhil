@@ -1,12 +1,27 @@
-## I'm Nikhil Kamble!
- - Currently pursuing Master's in Computer Science from Indiana University Bloomington.
- - Far far away, north of the ocean and south of the snowy mountains, I completed my undergrad in Computer Engineering from India.
- - I have a demonstrated experience in the field of:
-   - Software Development
-   - Full Stack Development
-   - DevOps
-   - Internet of Things
- 
+## Hello! I'm Nikhil,
+A Computer Science graduate from Indiana University Bloomington with a robust foundation in software development. I am passionate about creating innovative solutions that expand the boundaries of technology, specializing in Full Stack Development, DevOps, IoT, and Database Management. Currently, I am using my skills and gaining valuable experience as a Software Engineer at Raley's Supermarkets, a grocery and retail technology company.
+
+
+### 💡 My Areas of Expertise:
+
+✅ <b>Programming Languages:</b> I'm proficient in C#, Python, Java, C, C++, JavaScript, PHP, HTML, and CSS. These skills enable me to develop robust and scalable applications across multiple platforms.
+
+✅ <b>DevOps:</b> I've experience with Docker for containerization, Azure DevOps and Jetstream for real-time collaboration, RabbitMQ for message queuing, and platforms like Render and Vercel for seamless deployment and scaling. 
+
+✅ <b>Frameworks and Libraries:</b> I've experience with Node.js, React.js, Next.js, Flask, .Net Core, ASP.NET, React Native, and Bootstrap. I use these frameworks to build dynamic, user-friendly interfaces that enhance the overall user experience.
+
+✅ <b>Version Control:</b> I'm skilled in Azure Repos, Git, and GitHub for efficient collaboration and code management, ensuring seamless integration and continuous delivery.
+
+✅ <b>Databases:</b> I'm proficient in working with MySQL, MongoDB, Firebase, and Redis. I am adept at efficient data storage, retrieval, and management for various applications.
+
+
+### 📫 Professional Attributes: 
+I thrive in dynamic and collaborative environments, leveraging my strong problem-solving and analytical skills to deliver innovative software solutions. With a keen eye for detail and a commitment to staying current with industry trends, I focus on creating efficient, secure, and user-centric applications.
+
+
+### 💡Why you should hire me: 
+If you're seeking a dedicated software developer with expertise in multiple technologies, I would love to connect and explore potential opportunities. Let's collaborate and push the boundaries of what's possible in software development.
+<!--
 ## 📫 Connect with me on
 
   <a href="https://kamblenikhil.github.io"><img src="https://www.vectorlogo.zone/logos/yeoman/yeoman-icon.svg" alt="Portfolio" width="100" height="80"/></a>&nbsp;&nbsp;
@@ -59,7 +74,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="RabbitMQ" width="40" height="40"/>
 </p>
-
+-->
 <!--
 
 ### Hi there 👋
